@@ -1,4 +1,4 @@
-#   关于FreeODwiki <img src="文件/FreeODwiki2.png" style="height:35px; vertical-align:top;">
+#   关于FreeODwiki <img src="docs/文件/FreeODwiki2.png" style="height:35px; vertical-align:top;">
 
 
 FreeODwiki是一个由社群维护的百科全书，主题是OD/药物滥用/毒品/精神活性物质等，条目涵盖各个[具体药物的信息](药物/index.md)、药物产生的各类[主观效应](药效/index.md)、使用药物的[体验心得](报告/index.md)、药物相关的[文档和资料](文档/index.md)、精神药理学等[科学知识](文档/科学信息索引页.md)、药物[减害指南](文档/负责任的用药索引页.md)、药物相关的[技术与教学](文档/教学索引页.md)、药物与[社会的联系](文档/社会学/index.md)、药物相关的[观点与讨论](文档/观点讨论/index.md)。截至2026年5月，FreeODwiki的文档总数近2000篇，且仍在继续增加中。
