@@ -7,8 +7,8 @@ site_dir: ./site
 
 use_directory_urls: false
 
-repo_name: SalviaSWC/FreeODwiki
-repo_url: https://github.com/SalviaSWC/FreeODwiki
+repo_name: diyumid/FreeODwiki
+repo_url: https://github.com/diyumid/FreeODwiki
 
 extra_css:
   - css/extra.css
